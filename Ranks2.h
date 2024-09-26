@@ -1,0 +1,10 @@
+//
+// Created by super on 3/30/2023.
+//
+
+#ifndef NEW_SFML_TUTORIAL_RANKS_H
+#define NEW_SFML_TUTORIAL_RANKS_H
+enum Ranks2{
+    ACE, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING
+};
+#endif //NEW_SFML_TUTORIAL_RANKS_H
